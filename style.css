@@ -60,6 +60,10 @@ h1 {
   padding: 20px;
 }
 
+.h1, p, h2, strong {
+color: #fff;
+}
+
 .h3{
   margin-top: 80px;
 }
